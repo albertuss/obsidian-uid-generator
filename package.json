@@ -1,0 +1,19 @@
+{
+  "name": "obsidian-uid-generator",
+  "version": "1.0.0",
+  "description": "Generates and protects unique IDs in frontmatter for Obsidian notes",
+  "main": "main.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch"
+  },
+  "keywords": [],
+  "author": "Albert Bekaev",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.13.16",
+    "obsidian": "^1.8.7",
+    "typescript": "^5.8.2"
+  }
+}
